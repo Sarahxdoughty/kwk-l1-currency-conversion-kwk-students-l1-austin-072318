@@ -10,7 +10,7 @@ def usd_to_jpy (dollars)
   return dollars*111.1
 end
 
-def jpy_to_eur (yen)
+def jpy_to_usd (yen)
   return yen/111.1 
 end
 
