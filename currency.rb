@@ -11,7 +11,7 @@ def usd_to_jpy (dollars)
 end
 
 def jpy_to_eur (yen)
-  return yen/11108
+  return yen/111.08
 end
 
 def usd_to_gbp (dollars)
