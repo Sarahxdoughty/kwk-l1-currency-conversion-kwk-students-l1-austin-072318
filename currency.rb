@@ -15,11 +15,11 @@ def jpy_to_eur (yen)
 end
 
 def usd_to_gbp (dollars)
-  return dollars*.76
+  return dollars*(76/100)
 end
 
 def gbp_to_usd (pounds)
-  return pounds/.76
+  return pounds/(76/100)
 end
 
 def usd_to_aud (dollars)
