@@ -7,11 +7,11 @@ def eur_to_usd (euros)
 end
 
 def usd_to_jpy (dollars)
-  return dollars*2
+  return dollars/2
 end
 
 def jpy_to_eur (yen)
-  return yen/2
+  return yen*2
 end
 
 def usd_to_gbp (dollars)
