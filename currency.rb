@@ -27,5 +27,5 @@ def usd_to_aud (dollars)
 end
 
 def aud_to_usd (audollars)
-  return audollars/135
+  return audollars/1.35
 end
